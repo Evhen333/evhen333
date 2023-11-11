@@ -1,0 +1,255 @@
+
+@media (max-width: 1200px){
+	
+	.history-holder {
+	display: flex;
+	justify-content: center;
+}
+
+.text-dekoretion {
+	font-size: 22px;
+    text-align: center;
+	padding: 12px 20px;
+}
+
+.history-desk {
+    color: #606f81;
+    font-size: 14px;
+    width: 743px;
+    text-align: left;
+}
+
+.btn-three {
+    play: block;
+    width: 300px;
+    border: 3px solid #b98000;
+    background-color: #ffc74a;
+    padding: 20px 30px;
+    text-transform: uppercase;
+    text-decoration: none;
+    transition: background 0.1s linear, color 0.2s linear;
+    border-radius: 50px;
+    margin-top: 60px;
+    margin-left: 250px;
+	}
+}
+
+@media (max-width: 1000px){
+	.history-holder {
+	display: flex;
+	justify-content: center;
+}
+
+.btn-three {
+    play: block;
+    width: 300px;
+    border: 3px solid #b98000;
+    background-color: #ffc74a;
+    padding: 20px 30px;
+    text-transform: uppercase;
+    text-decoration: none;
+    transition: background 0.1s linear, color 0.2s linear;
+    border-radius: 50px;
+    margin-top: 60px;
+    margin-left: 250px;
+}
+
+.text-three-column{
+    font-size: 70px;
+    /* text-align: center; */
+    text-align: right;
+    padding-left: 20px;
+}
+
+.menu-item-cards {
+    background-color: #fff;
+    text-align: center;
+    width: 340px;
+    height: 370px;
+    padding: 10px;
+    box-shadow: 0px -15px 45px 15px #f3f4f6;
+    
+	}
+}
+
+@media (max-width: 768px){
+.menu-item-cards {
+    background-color: #fff;
+    text-align: center;
+    width: 340px;
+    height: 370px;
+    padding: 10px;
+    box-shadow: 0px -15px 45px 15px #f3f4f6;
+}
+
+.history-holder {
+	display: flex;
+	justify-content: center;
+}
+
+.text-three-column{
+    font-size: 70px;
+    /* text-align: center; */
+    text-align: center;
+    padding-left: 100px;
+	}
+}
+
+@media only screen and (max-width: 480px){
+	.menu-item-cards {
+    background-color: #fff;
+    text-align: center;
+    width: 340px;
+    height: 370px;
+    padding: 10px;
+    box-shadow: 0px -15px 45px 15px #f3f4f6;
+    margin: 20px 50px;
+}
+
+.menu-items-nad-footer {
+    display: flex;
+    flex-wrap: wrap;
+    margin-left: -77px;
+}
+
+.text-three-column{
+    font-size: 70px;
+    /* text-align: center; */
+    text-align: center;
+    padding-left: 43px;
+}
+
+.kontur {
+	position: absolute;
+	width: 400px;
+	height: 430px;
+	border: 10px solid #ffc74a;
+	z-index: 0;
+	top: 65px;
+	left: 50px;
+}
+
+.card {
+	margin: -25px 31px 81px 110px;
+	width: 290px;
+	height: 390px;
+}
+	.text-three-column p {
+    font-size: 45px;
+    /* text-align: center; */
+    text-align: center;
+    padding: 8px 12px 22px 70px;
+}
+
+.text-dekoretion {
+	font-size: 18px;
+	text-align: center;
+	padding: 12px 20px;
+}
+
+.history-desk {
+    color: #606f81;
+    font-size: 14px;
+    width: 500px;
+    text-align: left;
+    padding-left: 25px;
+}
+
+.history-img img {
+    position: absolute;
+    z-index: 999;
+    top: 20px;
+    left: 10px;
+}
+
+.kontur {
+	position: absolute;
+	width: 440px;
+	height: 450px;
+	border: 10px solid #ffc74a;
+	z-index: 0;
+	top: 65px;
+	left: 50px;
+}
+
+.btn-three {
+    play: block;
+    width: 300px;
+    border: 3px solid #b98000;
+    background-color: #ffc74a;
+    padding: 20px 30px;
+    text-transform: uppercase;
+    text-decoration: none;
+    transition: background 0.1s linear, color 0.2s linear;
+    border-radius: 50px;
+    margin-top: 60px;
+    margin-left: 126px;
+}
+
+.block-history-img {
+	display: none;
+	width: 600px;
+	height: 600px;
+	padding: 10px;
+	margin-left: 40px;
+	position: relative;
+}
+
+.search-container {
+	width: 100px;
+	margin: 0 auto;
+	display: block;
+	padding:  50px 0;
+	}
+}
+
+@media only screen and (min-width:1800px){
+.card {
+	margin: -100px 10px 120px 80px;
+	width: 290px;
+	height: 390px;	
+	}
+}
+
+@media only screen and (max-width:850px){
+.search-container{
+	width: 500px;
+	margin: 0 auto;
+	display: block;
+	padding-top: 50px;
+}
+
+.search-form-text{
+	font-size: 20px;
+	border: none;
+	width: 300px;
+	outline: 20px;
+	padding-right: 10px;
+	background-color: transparent;
+	color: #a8adb4;
+	}
+}
+
+@media only screen and (min-width:1600px){
+
+}
+
+@media only screen and (max-width:1200px){
+
+
+}
+
+@media only screen and (max-width:1190px){
+
+.history-title {
+	font-size: 60px;
+	text-align: center;
+}
+
+.text-three-column {
+    font-size: 70px;
+    /* text-align: center; */
+    text-align: left;
+    padding-left: 43px;
+	}
+}
